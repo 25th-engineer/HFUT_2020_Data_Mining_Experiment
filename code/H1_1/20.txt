@@ -1,0 +1,8 @@
+D:\PYTHON_3_7_4\lib\site-packages\sklearn\metrics\_classification.py:1221: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+
+RandomForestClassifier accuracy:    0.8870967741935484
+RandomForestClassifier precision:   0.9112554112554112
+RandomForestClassifier recall:      0.9126984126984128
+RandomForestClassifier f1 score:    0.9065009065009065

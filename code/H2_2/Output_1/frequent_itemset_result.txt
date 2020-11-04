@@ -1,0 +1,30 @@
+{sugar}
+{oil}
+{citrus fruit}
+{bottled water}
+{pastry}
+{whipped/sour cream}
+{fruit/vegetable juice}
+{other vegetables}
+{brown bread}
+{rolls/buns}
+{detergent}
+{sausage}
+{yogurt}
+{newspapers}
+{chocolate}
+{curd}
+{coffee}
+{soda}
+{tropical fruit}
+{berries}
+{canned beer}
+{root vegetables}
+{butter}
+{whole milk}
+{other vegetables,rolls/buns}
+{other vegetables,root vegetables}
+{other vegetables,whole milk}
+{rolls/buns,sausage}
+{rolls/buns,soda}
+{whole milk,yogurt}

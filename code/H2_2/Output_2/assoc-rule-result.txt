@@ -1,0 +1,6 @@
+{rolls/buns} => {whole milk}
+{whole milk} => {rolls/buns}
+{whole milk} => {yogurt}
+{yogurt} => {whole milk}
+{other vegetables} => {whole milk}
+{whole milk} => {other vegetables}
