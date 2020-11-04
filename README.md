@@ -15,3 +15,5 @@
 &emsp;&emsp;<font size =4 face=宋体>[实验 2：基于 UCI Groceries Dataset 的关联分析任务](https://github.com/25thengineer/Data_Mining_Experiment/tree/master/code/H2_2)</font><br>
 
 &emsp;&emsp;<font size =4 face=宋体>[实验 3：基于 PACS RAW Labeled Dataset 的聚类任务](https://github.com/25thengineer/Data_Mining_Experiment/tree/master/code/H3)</font><br>
+
+&emsp;&emsp;<font size =4 face=宋体>[实验报告](https://github.com/25thengineer/Data_Mining_Experiment/blob/master/reports/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A62020-2021%E5%AD%A6%E5%B9%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88Python%E5%AE%9E%E7%8E%B0%EF%BC%89.md)</font><br>
