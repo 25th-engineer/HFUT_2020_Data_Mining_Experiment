@@ -20,5 +20,5 @@
 &emsp;&emsp;实验报告一共有3种格式 ：<br>
 &emsp;&emsp;[.docx](https://github.com/25thengineer/Data_Mining_Experiment/blob/master/reports/2017218007%E6%96%87%E5%8D%8E_%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98__%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)<br>
 &emsp;&emsp;[.pdf](https://github.com/25thengineer/Data_Mining_Experiment/blob/master/reports/2017218007%E6%96%87%E5%8D%8E_%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98__%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)<br>
-&emsp;&emsp;[.md](https://github.com/25thengineer/Data_Mining_Experiment/blob/master/reports/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A62020-2021%E5%AD%A6%E5%B9%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88Python%E5%AE%9E%E7%8E%B0%EF%BC%89.md)
+&emsp;&emsp;[.md](https://github.com/25thengineer/Data_Mining_Experiment/blob/master/reports/%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A62020-2021%E5%AD%A6%E5%B9%B4%E3%80%8A%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E3%80%8B%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%EF%BC%88Python%E5%AE%9E%E7%8E%B0%EF%BC%89.md)<br>
 &emsp;&emsp;其中```.md```下载后用VS Code打开效果不错。</font><br>
